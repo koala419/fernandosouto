@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439659424530",
+    "project_id": "fernando-souto-v7hvfe",
+    "storage_bucket": "fernando-souto-v7hvfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439659424530:android:4c4532a7c7431d388961cb",
+        "android_client_info": {
+          "package_name": "com.mycompany.fernandosouto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiexrQQes4b3u6sTHYRwvNOcCNNXPHuRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
